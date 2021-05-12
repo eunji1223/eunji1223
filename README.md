@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 ✨eunji✨
+https://github.com/eunji1223/hit-counter
 <!--
 **eunji1223/eunji1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
